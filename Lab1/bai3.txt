@@ -1,0 +1,5 @@
+Nhập số tiền ban đầu: 10000
+Nhập lãi suất hàng năm: 0.06
+Số tiền sau 5 nam là: 10030.04
+Số tiền sau 10 nam là: 10060.16
+Tỷ lệ tăng trưởng là: 0.30%

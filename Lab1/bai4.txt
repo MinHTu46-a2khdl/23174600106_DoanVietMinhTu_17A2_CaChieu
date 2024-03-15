@@ -1,0 +1,5 @@
+Nhập độ dài cạnh đáy: 10
+Nhập chiều cao: 15
+Diện tích xung quanh: 300.00
+Diện tích toàn phần: 400.00
+Thể tích: 100.00
