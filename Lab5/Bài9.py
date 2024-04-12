@@ -1,0 +1,1 @@
+print("có thể" if len(input("nhập chuỗi :"))> 0 else "không thể")

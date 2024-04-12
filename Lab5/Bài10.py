@@ -1,0 +1,1 @@
+print(input("nhập chuỗi :").replace(" ", ""))
