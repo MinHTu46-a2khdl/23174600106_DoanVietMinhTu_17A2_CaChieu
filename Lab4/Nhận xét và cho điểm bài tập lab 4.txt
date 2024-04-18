@@ -1,0 +1,28 @@
+- Bài 1: 
+a) b) sử dụng kiến thức ngoài kiến thức đã học ở các lab
+c) đúng
+Điểm bài tập: 1.5
+
+- Bài 2: 
+a) đúng
+b) đúng
+c) đúng
+Điểm bài tập: 3.0
+
+- Bài 3: đúng
+Điểm bài tập: 1.0 
+
+- Bài 4:
+a) tổng không có phần tử 6**0
+b) tổng không có phần tử 1/3**(-1)
+c) đúng
+d) đúng
+Điểm bài tập: 1.0
+
+- Bài 5: sử dụng kiến thức ngoài kiến thức các lab đã học
+Điểm bài tập: 0.75
+
+- Bài 6: đúng
+Điểm bài tập: 1.0 
+
+Tổng điểm bài tập lab 4: 7.25
