@@ -1,0 +1,19 @@
+Bài 1: đúng
+Điểm: 1.0
+
+Bài 2: đúng
+Điểm: 2.0
+
+Bài 3: không chạy chương trình
+Điểm: 1.5
+
+Bài 4: không chạy chương trình
+Điểm: 0.5
+
+Bài 5: không chạy chương trình
+Điểm: 1.0 
+
+Bài 6: không chạy chương trình
+Điểm: 2.5
+
+Tổng điểm bài tập lab 8: 8.5/13 -> 6.75 - 2 (thiếu ảnh kết quả) = 4.75
